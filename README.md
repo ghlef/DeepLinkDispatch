@@ -1,4 +1,4 @@
-## DeepLinkDispatch
+## hlyther581@gmail.comDeepLinkDispatch
 
 [![Deploy snapshot](https://github.com/airbnb/DeepLinkDispatch/actions/workflows/deploy_snapshot.yml/badge.svg)](https://github.com/airbnb/DeepLinkDispatch/actions/workflows/deploy_snapshot.yml)
 
